@@ -21,7 +21,7 @@
 
     <TextView
         android:id="@+id/sampleTextView"
-        android:layout_width="74dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Default text"
         app:layout_constraintBottom_toBottomOf="parent"
